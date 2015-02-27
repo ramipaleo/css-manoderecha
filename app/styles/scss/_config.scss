@@ -1,0 +1,36 @@
+// ===================================================================================================
+// Global config
+// ===================================================================================================
+
+// Font Stacks
+
+$font-url--google      : "http://fonts.googleapis.com/css?family=Lato:400,300,700,900";
+
+$font-family--primary  : "Lato", sans-serif;
+$font-family--secondary: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+// Font Weights
+
+$font-weight--light     : 300;
+$font-weight--medium    : 400;
+$font-weight--bold      : 700;
+$font-weight--ultra-bold: 900;
+
+
+// Descriptive Base Colors
+
+$white: #fff;
+$black: #0b0b0b;
+$grey : #797e83;
+
+
+// Color usage
+
+$color-primary: $white;
+$color-shadow : rgba($black, .2);
+
+
+// Text
+
+$base__font-size: 16px;
+$base__line     : 24px;
