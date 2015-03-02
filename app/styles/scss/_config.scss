@@ -29,8 +29,23 @@ $grey : #797e83;
 $color-primary: $white;
 $color-shadow : rgba($black, .2);
 
+// Color Palette Modifiers
+
+
+// UI colors
+
+$ui-colors: (
+	default: $white,
+	success: $black,
+	error  : $grey
+);
+
 
 // Text
 
 $base__font-size: 16px;
 $base__line     : 24px;
+
+// Path to Assets
+
+$path--rel: "../img";
